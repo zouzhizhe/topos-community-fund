@@ -73,6 +73,7 @@ For queries, you can reach us [via email](mailto:john.rubisoff@toposware.com).
 
 ## :handshake: Contributing
 Interested in contributing to the Topos Community Fund? See our [Contribution Guidelines](https://github.com/toposware/.github/blob/126c240f48445d97c95c84af693c9ad4df8f808c/CONTRIBUTING.md).
+show me the money
 
 ## :loudspeaker: Feedback
 We value your feedback for improving the program. Share your thoughts as issues in this repository.
